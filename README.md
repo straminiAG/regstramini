@@ -1,3 +1,3 @@
 # regstramini
 first repository
-ipsum lorememe
+lorem ipsum
