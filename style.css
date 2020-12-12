@@ -60,18 +60,18 @@ button {
    color: #d0d0d0;
    font-size: 20px;
    border-radius: 5px 5px;
-   margin-top: 15px;
+   margin-top: 14px;
 }
 button:hover {
    background-color: #d0d0d0;
    color: #167fd8;
    cursor: pointer;
-   transition: 0.8s;
+   transition: 0.9s;
    border: 1px solid #167fd8;
 }
 h2 {
    text-transform: lowercase;
-   font-size: 20px;
+   font-size: 21px;
 }
 ::placeholder {
    font-size: 11px;
