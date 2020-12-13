@@ -76,3 +76,11 @@ h2 {
 ::placeholder {
    font-size: 11px;
 }
+#getname:invalid,
+#passs:invalid {
+   background-color: rgba(255, 0, 0, 0.15);
+}
+#informationsh {
+   margin-left: 200px;
+   margin-top: 100px;
+}
